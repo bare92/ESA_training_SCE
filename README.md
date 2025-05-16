@@ -43,4 +43,8 @@ conda create --name esa -c conda-forge python=3.9 spyder gdal jupyter scipy rast
 conda install anaconda::scikit-learn
 
 conda install anaconda::scikit-image
+
+conda activate esa
+
+jupyter notebook
 ```
